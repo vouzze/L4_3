@@ -1,0 +1,11 @@
+<word>						<page number>					<number of words>
+by						2						2
+the						3						8
+sweet						24						7
+wind						6						12
+that						77						1
+blows						10						0
+hard						8						16
+high						40						58
+wall 						98						8
+crumbles						112						9
